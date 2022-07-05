@@ -1,0 +1,11 @@
+{
+        "API_ID": 11738350,
+        "API_HASH": "f8286dda93772f14bd69c97c44d7fdfc",
+        "PatchFileText": "text.txt",
+        "PatchFileAccounts": "account.txt",
+        "PatchFileChannels": "channel.txt",
+        "link_preview": false,
+        "token_bot": "5314814289:AAFaZqe7E3BhfrM2bEuRbIp1J2wEHn2YnCo",
+        "user_id": 5107032933
+
+}

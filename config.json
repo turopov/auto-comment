@@ -1,0 +1,11 @@
+{
+        "API_ID":  1523306,
+        "API_HASH": "ecf28864395b748fa1e95a860c5356a4",
+        "PatchFileText": "text.txt",
+        "PatchFileAccounts": "account.txt",
+        "PatchFileChannels": "channel.txt",
+        "link_preview": false,
+        "token_bot": "5440743954:AAHWMU6cWD56C8tHS_rNVlJZfz1BKMtUoB0",
+        "user_id": 1000571215
+
+}
